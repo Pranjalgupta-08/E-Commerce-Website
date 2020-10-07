@@ -80,7 +80,7 @@ if (isset($_SESSION['email'])) {
                                     <p>Our exquisite collection of shirts.</p>
                                 </div>
                             </div>
-                        </a>
+                          </a>
                     </div>
                 </div>
             </div>
